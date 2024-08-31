@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Game
+This is My First Game Project
+Author = Sachin Mhawar
